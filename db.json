@@ -1,11 +1,14 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "hello"
+      "inputs": [
+        "app01",
+        "11111111",
+        "22222222"
+      ],
+      "version": "1.0",
+      "errors": [],
+      "success": true
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
